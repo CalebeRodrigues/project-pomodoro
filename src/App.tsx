@@ -5,7 +5,7 @@ import { Heading } from './components/Heading';
 export function App() {
   return (
     <>
-      <Heading />
+      <Heading>Olá Mundo 2</Heading>
       <p>
         Lorem, ipsum dolor sit amet consectetur adipisicing elit. Error sapiente
         odit hic iste, perspiciatis, voluptatibus facere ipsa non reprehenderit
